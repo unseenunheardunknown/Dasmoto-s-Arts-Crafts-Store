@@ -52,8 +52,9 @@ h4{
      color:yellow;
 }
 .last{
-    color:khaki;
+    linear-gradient(10deg,black, Khaki);
     text-align: center;
+    
 
 }
 .paintbrushes{
