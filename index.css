@@ -52,7 +52,7 @@ h4{
      color:yellow;
 }
 .last{
-    linear-gradient(10deg,black, Khaki);
+   color:linear-gradient(10deg,black, Khaki);
     text-align: center;
     
 
